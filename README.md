@@ -302,27 +302,3 @@ npm install
 ```
 
 ---
-
-## 📦 Tech Stack & Package Versions
-
-### Backend
-| Package | Version |
-|---------|---------|
-| express | ^4.18.3 |
-| mongoose | ^8.2.3 |
-| bcryptjs | ^2.4.3 |
-| jsonwebtoken | ^9.0.2 |
-| express-validator | ^7.0.1 |
-| cors | ^2.8.5 |
-| dotenv | ^16.4.5 |
-| nodemon (dev) | ^3.1.0 |
-
-### Frontend
-| Package | Version |
-|---------|---------|
-| react | ^18.2.0 |
-| react-dom | ^18.2.0 |
-| axios | ^1.6.8 |
-| react-hot-toast | ^2.4.1 |
-| react-icons | ^5.0.1 |
-| react-scripts | 5.0.1 |
